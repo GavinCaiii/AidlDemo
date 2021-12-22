@@ -2,4 +2,3 @@
 
 A simple aidl demo.
 
-test.
